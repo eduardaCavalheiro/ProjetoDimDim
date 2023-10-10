@@ -1,0 +1,42 @@
+﻿@model ProjetoDimDim.Models.Implantacao
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Implantacao</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.StatusImplantacao)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.StatusImplantacao)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VersaoDocker)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VersaoDocker)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ServicoNuvem)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ServicoNuvem)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Projeto)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Projeto.ProjetoId)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ImplantacaoId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

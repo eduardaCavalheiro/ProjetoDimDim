@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjetoDimDim
+build_property.RootNamespace = ProjetoDimDim
+build_property.ProjectDir = C:\Users\eduar\source\repos\ProjetoDimDim\ProjetoDimDim\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eduar\source\repos\ProjetoDimDim\ProjetoDimDim
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ducg0f9na
