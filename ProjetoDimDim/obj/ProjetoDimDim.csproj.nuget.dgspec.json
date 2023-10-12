@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bianca\\Downloads\\ProjetoDimDim (1) (1)\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj": {}
+    "C:\\Users\\Dell\\Documents\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bianca\\Downloads\\ProjetoDimDim (1) (1)\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj": {
+    "C:\\Users\\Dell\\Documents\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bianca\\Downloads\\ProjetoDimDim (1) (1)\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj",
+        "projectUniqueName": "C:\\Users\\Dell\\Documents\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj",
         "projectName": "ProjetoDimDim",
-        "projectPath": "c:\\Users\\Bianca\\Downloads\\ProjetoDimDim (1) (1)\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj",
-        "packagesPath": "C:\\Users\\Bianca\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bianca\\Downloads\\ProjetoDimDim (1) (1)\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim\\obj\\",
+        "projectPath": "C:\\Users\\Dell\\Documents\\ProjetoDimDim\\ProjetoDimDim\\ProjetoDimDim.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Documents\\ProjetoDimDim\\ProjetoDimDim\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bianca\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -86,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

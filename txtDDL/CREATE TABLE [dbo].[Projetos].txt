@@ -1,0 +1,18 @@
+CREATE TABLE [dbo].[Projetos] (
+    [ProjetoId]   INT            IDENTITY (1, 1) NOT NULL,
+    [Nome]        NVARCHAR (MAX) NOT NULL,
+    [Descricao]   NVARCHAR (MAX) NOT NULL,
+    [Dificuldade] INT            NOT NULL,
+    CONSTRAINT [PK_Projetos] PRIMARY KEY CLUSTERED ([ProjetoId] ASC)
+);
+
+
+CREATE TABLE [dbo].[Implantacoes] (
+    [ImplantacaoId]     INT            IDENTITY (1, 1) NOT NULL,
+    [StatusImplantacao] NVARCHAR (MAX) NOT NULL,
+    [VersaoDocker]      NVARCHAR (MAX) NOT NULL,
+    [ServicoNuvem]      NVARCHAR (MAX) NOT NULL,
+    [ProjetoId]         INT            NOT NULL,
+    CONSTRAINT [PK_Implantacoes] PRIMARY KEY CLUSTERED ([ImplantacaoId] ASC),
+    CONSTRAINT [FK_Implantacoes_Projetos_ProjetoId] FOREIGN KEY ([ProjetoId]) REFERENCES [dbo].[Projetos] ([ProjetoId]) ON DELETE CASCADE
+);
