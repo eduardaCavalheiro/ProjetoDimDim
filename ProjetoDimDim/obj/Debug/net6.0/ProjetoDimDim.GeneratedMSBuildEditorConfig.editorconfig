@@ -9,77 +9,145 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoDimDim
 build_property.RootNamespace = ProjetoDimDim
-build_property.ProjectDir = C:\Users\eduar\source\repos\ProjetoDimDim\ProjetoDimDim\
+build_property.ProjectDir = c:\Users\Bianca\OneDrive\Área de Trabalho\ProjetoDimDim\ProjetoDimDim\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\eduar\source\repos\ProjetoDimDim\ProjetoDimDim
+build_property.MSBuildProjectDirectory = c:\Users\Bianca\OneDrive\Área de Trabalho\ProjetoDimDim\ProjetoDimDim
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Home/Index.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xIb21lXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xJbXBsYW50YWNvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xJbXBsYW50YWNvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xJbXBsYW50YWNvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xJbXBsYW50YWNvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xJbXBsYW50YWNvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xQcm9qZXRvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xQcm9qZXRvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xQcm9qZXRvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xQcm9qZXRvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xQcm9qZXRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xTaGFyZWRcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xTaGFyZWRcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Home/Privacy.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Create.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Delete.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Details.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Edit.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Index.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Implantacoes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW1wbGFudGFjb2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Create.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Delete.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Details.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Edit.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Index.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Projetos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/Error.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/_ViewImports.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/_ViewStart.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/eduar/source/repos/ProjetoDimDim/ProjetoDimDim/Views/Shared/_Layout.cshtml]
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/ProjetoDimDim/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvamV0b0RpbURpbVxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-xz3akcd4rp
+
+[c:/Users/Bianca/OneDrive/Área de Trabalho/ProjetoDimDim/ProjetoDimDim/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7ducg0f9na

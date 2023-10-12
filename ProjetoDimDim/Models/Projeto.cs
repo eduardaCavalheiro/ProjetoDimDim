@@ -10,6 +10,6 @@
 
         public int Dificuldade { get; set; }
 
-      public ICollection<Implantacao> implantacoes { get; set; } = new List<Implantacao>();
+        public ICollection<Implantacao> implantacoes { get; set; } = new List<Implantacao>();
     }
 }

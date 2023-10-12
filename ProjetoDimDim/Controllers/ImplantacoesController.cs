@@ -1,16 +1,20 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ProjDimDim.Data;
+using ProjetoDimDim.Data;
 using ProjetoDimDim.Models;
 
 namespace ProjetoDimDim.Controllers
 {
     public class ImplantacoesController : Controller
     {
-        private readonly ProjDimDimContext _context;
+        private readonly ProjetoDDContext _context;
 
-        public ImplantacoesController(ProjDimDimContext context)
+        public ImplantacoesController(ProjetoDDContext context)
         {
             _context = context;
         }
@@ -18,8 +22,8 @@ namespace ProjetoDimDim.Controllers
         // GET: Implantacoes
         public async Task<IActionResult> Index()
         {
-            var projDimDimContext = _context.Implantacoes.Include(i => i.Projeto);
-            return View(await projDimDimContext.ToListAsync());
+            var projetoDDContext = _context.Implantacoes.Include(i => i.Projeto);
+            return View(await projetoDDContext.ToListAsync());
         }
 
         // GET: Implantacoes/Details/5
@@ -55,7 +59,7 @@ namespace ProjetoDimDim.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ImplantacaoId,StatusImplantacao,VersaoDocker,ServicoNuvem,ProjetoId")] Implantacao implantacao)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 _context.Add(implantacao);
                 await _context.SaveChangesAsync();
@@ -144,7 +148,7 @@ namespace ProjetoDimDim.Controllers
         {
             if (_context.Implantacoes == null)
             {
-                return Problem("Entity set 'ProjDimDimContext.Implantacoes'  is null.");
+                return Problem("Entity set 'ProjetoDDContext.Implantacoes'  is null.");
             }
             var implantacao = await _context.Implantacoes.FindAsync(id);
             if (implantacao != null)

@@ -1,14 +1,12 @@
 using Microsoft.EntityFrameworkCore;
-using ProjDimDim.Data;
-using ProjetoDimDim.Controllers;
+using ProjetoDimDim.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<ProjDimDimContext>(op =>
+builder.Services.AddDbContext<ProjetoDDContext>(op =>
 {
-    op.UseSqlServer(builder.Configuration.GetConnectionString("ProjetoDimDimConnection"));
+    op.UseSqlServer(builder.Configuration.GetConnectionString("conexao"));
 });
-
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
@@ -31,6 +29,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Projetos}/{action=Index}/{id?}");
+    pattern: "{controller=Projetos}/{action=Create}/{id?}");
 
 app.Run();

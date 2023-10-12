@@ -1,4 +1,6 @@
-﻿namespace ProjetoDimDim.Models
+﻿using ProjetoDimDim.Models;
+
+namespace ProjetoDimDim.Models
 {
     public class Implantacao
     {

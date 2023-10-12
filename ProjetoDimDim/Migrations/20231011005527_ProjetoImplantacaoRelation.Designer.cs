@@ -2,21 +2,24 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using ProjDimDim.Data;
+using ProjetoDimDim.Data;
 
 #nullable disable
 
 namespace ProjetoDimDim.Migrations
 {
-    [DbContext(typeof(ProjDimDimContext))]
-    partial class ProjDimDimContextModelSnapshot : ModelSnapshot
+    [DbContext(typeof(ProjetoDDContext))]
+    [Migration("20231011005527_ProjetoImplantacaoRelation")]
+    partial class ProjetoImplantacaoRelation
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "7.0.11")
+                .HasAnnotation("ProductVersion", "7.0.12")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);

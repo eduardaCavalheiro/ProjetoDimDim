@@ -8,10 +8,8 @@
     <WebStackScaffolding_IsPartialViewSelected>False</WebStackScaffolding_IsPartialViewSelected>
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
-    <WebStackScaffolding_DbContextTypeFullName>ProjDimDim.Data.ProjDimDimContext</WebStackScaffolding_DbContextTypeFullName>
+    <WebStackScaffolding_DbContextTypeFullName>ProjetoDimDim.Data.ProjetoDDContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
-    <Controller_SelectedScaffolderID>MvcControllerWithContextScaffolder</Controller_SelectedScaffolderID>
-    <Controller_SelectedScaffolderCategoryPath>root/Common/MVC/Controller</Controller_SelectedScaffolderCategoryPath>
   </PropertyGroup>
 </Project>

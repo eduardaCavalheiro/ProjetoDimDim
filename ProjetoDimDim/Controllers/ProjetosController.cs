@@ -5,16 +5,16 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
-using ProjDimDim.Data;
+using ProjetoDimDim.Data;
 using ProjetoDimDim.Models;
 
 namespace ProjetoDimDim.Controllers
 {
     public class ProjetosController : Controller
     {
-        private readonly ProjDimDimContext _context;
+        private readonly ProjetoDDContext _context;
 
-        public ProjetosController(ProjDimDimContext context)
+        public ProjetosController(ProjetoDDContext context)
         {
             _context = context;
         }
@@ -24,7 +24,7 @@ namespace ProjetoDimDim.Controllers
         {
               return _context.Projetos != null ? 
                           View(await _context.Projetos.ToListAsync()) :
-                          Problem("Entity set 'ProjDimDimContext.Projetos'  is null.");
+                          Problem("Entity set 'ProjetoDDContext.Projetos'  is null.");
         }
 
         // GET: Projetos/Details/5
@@ -143,7 +143,7 @@ namespace ProjetoDimDim.Controllers
         {
             if (_context.Projetos == null)
             {
-                return Problem("Entity set 'ProjDimDimContext.Projetos'  is null.");
+                return Problem("Entity set 'ProjetoDDContext.Projetos'  is null.");
             }
             var projeto = await _context.Projetos.FindAsync(id);
             if (projeto != null)
